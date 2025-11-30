@@ -1,0 +1,8 @@
+{
+  "name": "ZIVO - AI Student Companion",
+  "description": "An all-in-one AI learning ecosystem for students featuring an AI tutor, smart note generator, study planner, and exam engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
